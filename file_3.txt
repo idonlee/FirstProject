@@ -1,4 +1,6 @@
 file_3 line 1
 file_3 line 2
 file_3 line 3
-
+line 4
+also, line 5
+and, hey, line 6
